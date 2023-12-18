@@ -1,0 +1,22 @@
+0 Arrive Daniil Chips 2
+3 Arrive Alyona Bread 3 Bread 3 Bread 3 Radish 6
+5 Arrive Julia Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 
+7 Arrive Kyrylo Bread 3 Bananas 7 Chips 2 Radish 6
+8 Arrive Maryna Bananas 7
+12 Arrive Dmytriy Flowers 22 Bread 3 Cheese 3 Cheese 3
+13 Arrive Eduard Cheese 3 Bananas 3
+16 Arrive Anatoliy Milk 4 
+20 Arrive Artem Fish 12 Milk 3
+23 Arrive Tatiana Lettuce 4
+25 Arrive Svetlana Pop 2
+26 Arrive Olena Avacado 5 Bananas 3 Chips 2
+27 Arrive Iryna Lettuce 15 Flowers 12
+30 Arrive Taisia Cheese 3 Bread 3
+32 Arrive Klara Grapes 3 Orange 5
+36 Close 1
+42 Arrive Evgeniy Meat 12 Cheese 3 Chips 2 Chips 2 Chips 2 Chips 2 
+46 Arrive Maria Chips 2 Radish 6
+49 Arrive Hanna Lettuce 10 Apple 3
+52 Arrive Vladislav Gum 1 Gum 1 Gum 1 Gum 1 
+54 Close 0
+55 Arrive Anastastiya Gum 1 Milk 4 Bread 3

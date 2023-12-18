@@ -1,0 +1,79 @@
+0 Arrive Daniil Chips 2
+1 Arrive Alyona Bread 3 Bread 3 Bread 3 Radish 6
+1 Arrive Julia Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 
+2 Arrive Kyrylo Bread 3 Bananas 7 Chips 2 Radish 6
+2 Arrive Maryna Bananas 7
+3 Arrive Dmytriy Flowers 22 Bread 3 Cheese 3 Cheese 3
+3 Arrive Eduard Cheese 3 Bananas 3
+4 Arrive Anatoliy Milk 4 
+4 Arrive Nikita Meat 3 
+5 Arrive Tatiana Lettuce 4
+5 Arrive Svetlana Pop 2
+6 Arrive Olena Avacado 5 Bananas 3 Chips 2
+7 Arrive Iryna Lettuce 15 Flowers 12
+7 Arrive Taisia Cheese 3 Bread 3
+8 Arrive Klara Grapes 3 Orange 5
+8 Arrive Artem Fish 12 Milk 3
+9 Arrive Evgeniy Meat 12 Cheese 3 Chips 2 Chips 2 Chips 2 Chips 2 
+10 Arrive Maria Chips 2 Radish 6
+10 Arrive Hanna Lettuce 10 Apple 3
+11 Arrive Vladislav Gum 1 Gum 1 Gum 1 Gum 1 
+12 Arrive Pavlo Cheese 3
+13 Arrive Anastastiya Gum 1 Milk 4 Bread 3
+15 Close 1
+17 Arrive Mykyta Milk 4 Flowers 22
+18 Arrive Gevorg Pop 5 Cheese 3 Chips 2
+18 Arrive Daria Milk 4 Fish 15
+19 Arrive Yan Apple 2 Radish 6 Milk 3
+19 Arrive Natalia Radish 4 Bananas 3
+20 Arrive Petro Chips 2 Chips 2 Chips 2 Chips 2 Chips 2
+22 Arrive Vasyliy Bread 5 Bananas 3 Apple 3 Avacado 4
+23 Arrive Oksana Fish 8 Meat 8 Cheese 5
+24 Arrive Andriy Lettuce 10 Bread 3 Gum 1
+26 Arrive Diana Meat 12 Milk 4 Milk 4 Lettuce 10
+26 Arrive Evgenia Flowers 22 Lettuce 10
+27 Arrive Lev Radish 6 Meat 12
+27 Arrive Yaroslav Bread 3 Gum 1 Bananas 7
+28 Arrive Oleksandr Pop 20 Fish 15 Lettuce 10
+28 Arrive Damir Chips 2 Bananas 7 Bananas 7
+29 Arrive Yana Chips 2 Cheese 3
+30 Close 0
+31 Arrive Yegor Bananas 3 Apple 3
+31 Arrive Denys Grapes 3 Orange 5
+32 Arrive Anna Milk 3
+33 Arrive Ruslan Chips 2 Chips 2 Chips 2 Chips 2 Chips 2 Chips 2 Chips 2 Chips 2
+33 Arrive Volodymyr Radish 6 Meat 12 Cheese 3
+33 Arrive Viktoria Flowers 3 
+34 Arrive Inna Milk 10 Fish 15
+36 Arrive Uliyana Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 Gum 1 
+36 Arrive Mykola Radish 6 Meat 6
+37 Arrive Bogdan Grapes 3 Orange 5
+37 Arrive Liliya Radish 6 Meat 12 
+38 Arrive Mykhailo Milk 9 Meat 9
+39 Arrive Yeva Bread 3 Gum 1 Chips 2
+40 Close 1
+40 Arrive Ivan Meat 10 Bananas 3 
+41 Arrive Krystyna Radish 6 Meat 12
+42 Arrive Zakhar Apple 2 Radish 6 Bananas 4 
+42 Arrive Boryslav Milk 4 Milk 4 Bananas 7 
+43 Arrive Ilya Fish 15 Meat 12 Cheese 3
+44 Arrive Oleksiy Cheese 3 Chips 2
+44 Arrive Sviatoslav Milk 12 Pop 20
+45 Arrive Arseniy Lettuce 10 Bread 3 Gum 1
+46 Arrive Varvara Apple 10 Orange 10  Milk 10 Fish 15
+47 Arrive Nazariy Grapes 12 Chips 2 Chips 2
+48 Arrive Elena Radish 6 Meat 12 Radish 3 
+48 Arrive Milena Chips 2 Cheese 3 Apple 10
+49 Arrive Kostyantyn Flowers 22 Bread 3 Cheese 3 Cheese 3
+50 Arrive Yelyzaveta Gum 1 Gum 1 Gum 1 Meat 12 Milk 4
+51 Arrive Valeria Pop 20 Meat 12
+52 Arrive Samir Milk 4 Fish 15 Chips 2 Chips 2 
+52 Arrive Maksym Radish 15 Meat 15
+54 Arrive Sophia Bread 5 Lettuce 10
+55 Close 0
+56 Arrive Glib adish 6 Meat 12 Cheese 3
+56 Arrive Matviy Chips 2 Cheese 3
+58 Arrive Vadym Milk 4 Flowers 12 Lettuce 10
+59 Arrive Valeriy Fish 15 Lettuce 10
+59 Arrive Oleg Lettuce 10 Bread 3 Gum 1
+60 Arrive Vitaliy Chips 2 Bananas 4 Bananas 4
